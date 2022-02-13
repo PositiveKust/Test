@@ -1,0 +1,85 @@
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\ProgrammBaseData.exe.config
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\ProgrammBaseData.exe
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\ProgrammBaseData.pdb
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.Properties.Resources.resources
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.GenerateResource.cache
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.CoreCompileInputs.cache
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.exe
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.pdb
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.EntryMenu.resources
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.TableSelection.resources
+D:\Студенту\Базы данных\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\ProgrammBaseData.exe.config
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\ProgrammBaseData.exe
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\ProgrammBaseData.pdb
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.EntryMenu.resources
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.Properties.Resources.resources
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.TableSelection.resources
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.GenerateResource.cache
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.CoreCompileInputs.cache
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.exe
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.pdb
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.WorkwithBaseData.resources
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\Google.Protobuf.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\MySql.Data.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Buffers.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Memory.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\Zstandard.Net.dll
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\Google.Protobuf.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\MySql.Data.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Buffers.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Memory.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.CopyComplete
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.AddOrInsertValue.resources
+C:\Users\Kust\Desktop\Курсач\ProgrammBaseData\obj\Debug\ProgrammBaseData.Report.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\ProgrammBaseData.exe.config
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\ProgrammBaseData.exe
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\ProgrammBaseData.pdb
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\Google.Protobuf.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\MySql.Data.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Buffers.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Memory.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\Zstandard.Net.dll
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\Google.Protobuf.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\MySql.Data.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Buffers.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Memory.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.AddOrInsertValue.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.EntryMenu.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.Properties.Resources.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.Report.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.TableSelection.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.WorkwithBaseData.resources
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.GenerateResource.cache
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.CoreCompileInputs.cache
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.csproj.CopyComplete
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.exe
+C:\Users\Kust\Desktop\Студенту\Базы данных 3-4 семестры\Курсовой проект 4 семестр\ProgrammBaseData\obj\Debug\ProgrammBaseData.pdb
